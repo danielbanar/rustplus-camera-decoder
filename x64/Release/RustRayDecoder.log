@@ -1,0 +1,7 @@
+﻿  math.cpp
+  Generating code
+  3 of 100 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RustRayDecoder.vcxproj -> D:\repos\RustRayDecoder\x64\Release\RustRayDecoder.exe
